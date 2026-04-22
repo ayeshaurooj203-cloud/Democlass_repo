@@ -1,3 +1,3 @@
 # header
 
-This is my first demo lecture 
+This is my first demo lecture.
